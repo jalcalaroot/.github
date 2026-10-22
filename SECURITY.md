@@ -4,7 +4,7 @@ This policy applies to every repository under [github.com/jalcalaroot](https://g
 
 ## Supported versions
 
-These repositories are personal reference implementations, proofs of concept and infrastructure-as-code templates. Only the default branch (`main` or `master`) receives fixes. Repositories marked **legacy reference** in their README are kept for reference and may not be patched; use them as a starting point, not as production-ready code.
+These repositories are personal reference implementations and infrastructure-as-code templates. Only the default branch (`main` or `master`) receives fixes. Repositories marked **legacy reference** in their README are kept for reference and may not be patched; use them as a starting point, not as production-ready code.
 
 ## Reporting a vulnerability
 
